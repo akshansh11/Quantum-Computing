@@ -21,3 +21,5 @@ Applications of Quantum Computing in Machine Learning: Investigate the potential
 Hybrid Quantum-Classical Approaches: Explore the integration of classical and quantum computing resources for machine learning tasks, such as the variational quantum eigensolver (VQE) and quantum approximate optimization algorithm (QAOA).
 
 Quantum Machine Learning Libraries: Get hands-on experience with quantum machine learning libraries like TensorFlow Quantum, PennyLane, and Qiskit Machine Learning.
+
+![superposition pic](https://user-images.githubusercontent.com/47514698/232492934-6de23d15-feb4-450c-960c-9e0118665147.jpg)
